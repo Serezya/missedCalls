@@ -1,5 +1,5 @@
 package com.company;
 
 public enum Group {
-    WORK, FRIENDLY
+    WORK, FRIENDLY, TENNIS
 }
